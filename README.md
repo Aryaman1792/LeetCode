@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0047-permutations-ii) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/Aryaman1792/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
