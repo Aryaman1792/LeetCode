@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryaman1792/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Aryaman1792/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aryaman1792/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Aryaman1792/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Bit Manipulation
 |  |
 | ------- |
