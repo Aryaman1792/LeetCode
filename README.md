@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryaman1792/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryaman1792/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryaman1792/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Database
 |  |
