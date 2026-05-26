@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/Aryaman1792/LeetCode/tree/master/0344-reverse-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aryaman1792/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Aryaman1792/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3701-compute-alternating-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Aryaman1792/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
