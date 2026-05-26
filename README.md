@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryaman1792/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3701-compute-alternating-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryaman1792/LeetCode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
