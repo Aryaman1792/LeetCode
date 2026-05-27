@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryaman1792/LeetCode/tree/master/0001-two-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aryaman1792/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Aryaman1792/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Aryaman1792/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aryaman1792/LeetCode/tree/master/0344-reverse-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aryaman1792/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Aryaman1792/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Aryaman1792/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Trie
 |  |
