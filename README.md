@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Aryaman1792/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [0518-coin-change-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0518-coin-change-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryaman1792/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryaman1792/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aryaman1792/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aryaman1792/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
