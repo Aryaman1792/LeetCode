@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aryaman1792/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aryaman1792/LeetCode/tree/master/0242-valid-anagram) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aryaman1792/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aryaman1792/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Aryaman1792/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryaman1792/LeetCode/tree/master/0344-reverse-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aryaman1792/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aryaman1792/LeetCode/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
