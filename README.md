@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryaman1792/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Database
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
