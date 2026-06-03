@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aryaman1792/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Aryaman1792/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Aryaman1792/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [0518-coin-change-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0518-coin-change-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aryaman1792/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Aryaman1792/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Aryaman1792/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaman1792/LeetCode/tree/master/0242-valid-anagram) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aryaman1792/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aryaman1792/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Aryaman1792/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaman1792/LeetCode/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryaman1792/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aryaman1792/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aryaman1792/LeetCode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
