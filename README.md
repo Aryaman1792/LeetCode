@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [0518-coin-change-ii](https://github.com/Aryaman1792/LeetCode/tree/master/0518-coin-change-ii) |
 | [0705-design-hashset](https://github.com/Aryaman1792/LeetCode/tree/master/0705-design-hashset) |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryaman1792/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Aryaman1792/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryaman1792/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aryaman1792/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaman1792/LeetCode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryaman1792/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryaman1792/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aryaman1792/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +160,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Aryaman1792/LeetCode/tree/master/0705-design-hashset) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
