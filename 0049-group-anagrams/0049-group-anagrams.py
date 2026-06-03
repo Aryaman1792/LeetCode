@@ -5,4 +5,3 @@ class Solution:
             key="".join(sorted(s))
             ans[key].append(s)
         return list(ans.values())
-        
