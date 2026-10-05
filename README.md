@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aryaman1792/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aryaman1792/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aryaman1792/LeetCode/tree/master/0344-reverse-string) |
+| [0856-score-of-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0856-score-of-parentheses) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aryaman1792/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aryaman1792/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -205,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Aryaman1792/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
