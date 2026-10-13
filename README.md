@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryaman1792/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aryaman1792/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Aryaman1792/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryaman1792/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aryaman1792/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Database
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman1792/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aryaman1792/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
