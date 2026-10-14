@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman1792/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2126-destroying-asteroids](https://github.com/Aryaman1792/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aryaman1792/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryaman1792/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryaman1792/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aryaman1792/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryaman1792/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryaman1792/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Aryaman1792/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Aryaman1792/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Bit Manipulation
