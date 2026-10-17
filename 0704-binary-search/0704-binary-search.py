@@ -5,11 +5,9 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        a=0
-        b=len(nums)-1
+        a,b=0,len(nums)-1
         while a<=b:
             mid=(a+b)//2
-            # return mid
             if nums[mid]==target:
                 return mid
             elif nums[mid]<target:
@@ -17,5 +15,4 @@ class Solution(object):
             else:
                 b=mid-1
         return -1
-        
         
