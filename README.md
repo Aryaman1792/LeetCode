@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryaman1792/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3701-compute-alternating-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryaman1792/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryaman1792/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aryaman1792/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Aryaman1792/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aryaman1792/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryaman1792/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryaman1792/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryaman1792/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/Aryaman1792/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Aryaman1792/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Bit Manipulation
