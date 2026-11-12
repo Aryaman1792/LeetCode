@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryaman1792/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryaman1792/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman1792/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryaman1792/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryaman1792/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryaman1792/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryaman1792/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
